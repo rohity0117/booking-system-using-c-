@@ -1,0 +1,7 @@
+
+Customer ID: 2255
+Name: rohit
+Age: 22
+Mobile Number: 74444
+Address: jhfd
+Gender: delhi
